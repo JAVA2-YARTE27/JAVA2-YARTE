@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Prelimact2
+public class Prelimact02
 {
 	public static void main (String [] args){
 			BufferedReader in = new BufferedReader (new FileReader("phonebook.txt"));
